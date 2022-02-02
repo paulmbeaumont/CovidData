@@ -1,0 +1,7 @@
+"0","USEU %>%"
+"0","  ggplot(mapping = aes("
+"0","    x = date,"
+"0","    y = total_cases,"
+"0","    group = location,"
+"0","    color = location"
+"0","  )) + geom_line() "

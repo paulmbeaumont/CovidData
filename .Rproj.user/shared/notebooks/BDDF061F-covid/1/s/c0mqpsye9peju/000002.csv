@@ -1,0 +1,7 @@
+"0","USEU_pct %>% "
+"0","  ggplot(mapping = aes("
+"0","    x = date,"
+"0","    y = pct,"
+"0","    group = location,"
+"0","    color = location"
+"0","  )) + geom_line()"
