@@ -1,3 +1,0 @@
-"0","USEU_pct <- USEU %>%"
-"0","  group_by(location) %>% "
-"0","  mutate(pct = 100*(log(total_cases/lag(total_cases))))"
